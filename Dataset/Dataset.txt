@@ -1,0 +1,5 @@
+1. Dataset (kaggel) : https://www.kaggle.com/kazanova/sentiment140
+
+2. Original Dataset (Gdrive) : https://drive.google.com/file/d/1HWG4ngR4QdM8p6DPdiEGi9oNYKMDKVBc/view?usp=sharing
+
+3. Clean Dataset (Gdrive) : https://drive.google.com/file/d/19vuA_WEZX0VKuHeBDnd8wIk6gJNQG-b4/view?usp=sharing
