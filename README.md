@@ -2,8 +2,8 @@
 
 
 # Project Description : 
-Twitter is the rich source to learn about people's opinion. By twitter sentiment analysis we are going to determine the emotion of user according to their tweets  Because to keep track on social media, what user said about and what is their opinion about any topic and the product or services. 
-  Analysis the emotion of the user is important task in data mining. It’s helps in businesses to monitor brand and product and  often perform on textual data to know the customer opinion and feedback of their product and brand.  In this project we are going to analysis the sentiment of the user on the social media. And we know that twitter is the rich source to learn about people. By sentiment analysis we can able to categorizes the and comments, tweets into three part as positive, negative or neutral.
+Twitter is the rich source to learn about people's opinion. By twitter sentiment analysis we can determine the emotion of user according to their tweets  because to keep track on social media, what user said about and what is their opinion about any topic and the product or services. 
+  Analysis the emotion of the user is important task in data mining. It’s helps in businesses to monitor brand and product and  often perform on textual data to know the customer opinion and feedback of their product and brand.  This project analyze the sentiment of the user on the social media. And we know that twitter is the rich source to learn about people. By sentiment analysis we can able to categorizes the and comments, tweets into three part as positive, negative or neutral.
 
  # DataSet Description:
  
