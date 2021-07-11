@@ -23,12 +23,14 @@ Url : [Dataset](https://www.kaggle.com/kazanova/sentiment140)
 
     • Logistic Algorithm:
 This algorithm is used for the classification problems, it is a predictive analysis 	algorithm and based on the concept of probability.
+
     • Support vector machine:
 It can be used for both classification or regression challenges. However, it is 	mostly used in classification problems
+
     • Multinomial naive bayes: 
 Multinomial Naive Bayes classifier is used in Text Classification, Spam filtering and 		Sentiment Analysis. It has a higher success rate than other algorithms.
 
-# Download project from github :
+# Download project:
 
 [Click here to Download](https://github.com/mravirajsingh/Twitter-sentiment-analysis/archive/refs/heads/main.zip)
 
